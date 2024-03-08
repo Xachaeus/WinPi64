@@ -1,0 +1,3 @@
+This release was extremely inefficient for storage, so it has been
+taken down from Google Drive. However, it can still be downloaded
+from the first GitHub release on WinPi64.
