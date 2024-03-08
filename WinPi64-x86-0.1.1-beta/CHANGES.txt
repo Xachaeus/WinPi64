@@ -1,0 +1,3 @@
+This release changed the files which are compressed into the final product,
+decreased the size of the .zip file downloaded for the project, and now stores
+large files on Google Drive instead of on GitHub LFS.
