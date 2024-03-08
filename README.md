@@ -9,6 +9,6 @@ Within the repository, find the version you would like to download. Follow the l
 #### Note: Windows will likely prevent you from running the run.bat script the first time you run the emulator; this can be bypassed by clicking on "More Info" on the Microsoft Defender window that opens, and then clicking "Run Anyway".
 (All of the source files are visible to the user, so you can verify their security on your own if you wish)
 
-Alternatively, you can also download the most recent .zip package from the latest release on Google Drive [here](https://drive.google.com/file/d/1rJOV_HfQ_tHyh6lSSAo1Ndx3182I1rdW/view?usp=sharing).
+Alternatively, you can also download the most recent .zip package from the latest release on GitHub [here](https://github.com/Xachaeus/WinPi64/releases/tag/v0.1.1-beta).
 
 If you would like to be able to run the emulator from your desktop without needing to open anything in the file explorer, simply create a shortcut for the run.bat script and add it to your desktop.
